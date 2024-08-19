@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Master device array -->
+    <string-array name="device_arrays" translatable="false">
+        <item>device_1</item>
+    </string-array>
+
+    <!-- Device 1 -->
+    <string-array name="device_1" translatable="false">
+        <item>PRODUCT:akita_beta</item>
+        <item>DEVICE:akita</item>
+        <item>MANUFACTURER:Google</item>
+        <item>BRAND:google</item>
+        <item>MODEL:Pixel 8a</item>
+        <item>ID:AP31.240617.015</item>
+        <item>VERSION.RELEASE:15</item>
+        <item>VERSION.INCREMENTAL:12207491</item>
+        <item>FINGERPRINT:google/akita_beta/akita:15/AP31.240617.015/12207491:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2024-08-05</item>
+        <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
+    </string-array>
+
+</resources>
